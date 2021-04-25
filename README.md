@@ -1,2 +1,2 @@
 # covid-simulazione-india-italia
-Codice per riproduzione
+Codice per riproducibilità
